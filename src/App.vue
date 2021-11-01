@@ -23,10 +23,10 @@ export default {
 <style>
 /* effect  */
 
-/* #app {
-  text-align: center;
-  color: #2c3e50;
+#app {
   width: 200px;
   margin-top: 60px;
-} */
+  text-align: center;
+  color: #2c3e50;
+}
 </style>
